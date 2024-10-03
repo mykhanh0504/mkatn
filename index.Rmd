@@ -1,8 +1,0 @@
----
-  title: "Home"
----
-  
-```{r, echo=FALSE}
-htmltools::includeHTML("photos.html")
-htmltools::includeCSS("photos.css")
-```
