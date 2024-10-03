@@ -1,16 +1,15 @@
-name: "my-website"
+name: my-website
+output_dir: docs
 navbar:
-  title: "Khanh Ton"
+  title: My Website
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
-    - text: "About"
-      icon: fa-info
-      href: about.html
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
     highlight: textmate
     include:
       after_body: footer.html
