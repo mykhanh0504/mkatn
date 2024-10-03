@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-Khanh joined the [Ecohydrology Lab](https://sites.usnh.edu/ecohydrology-lab/) in Spring 2023 after graduating from Rhodes College (Memphis, TN) with a BS in Environmental Sciences. In her undergraduate years, she explored many different aspects of ENVS, from observing behaviors of African elephants in captivity at the Memphis Zoo to sampling creek and beach water monthly on Bald Head Island (NC). Khanh found her interests in plant ecology and terrestrial biogeochemistry after a summer monitoring vegetation with the Overton Park Conservancy (TN) and the Semester in Environmental Science (SES) at the Marine Biological Laboratory (MBL, MA). She is also enthusiastic about remote sensing, especially using it to understand the impacts of major disturbances (e.g. hurricanes, fires) on vegetation health and structure.
-
-Her work at UNH examines how prescribed burns can help regenerate Northern red oak in its climate change-induced northward expansion in the northeastern US. This research aims to provide landowners and forest managers here with tangible and actionable information on prescribed burning that can facilitate the implementation of improved management practices. In turn, increasing oak regeneration will result in more diverse and climate-ready forests and continue providing a wide range of ecosystem services.
-
-Email: [khanh.ton\@unh.edu](mailto:khanh.ton@unh.edu){.email}
